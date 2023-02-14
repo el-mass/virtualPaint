@@ -1,1 +1,1 @@
-# virtualPaint
+Had fun working with open CV library to design a virtual paint that allows the user to write on the screen while they have their webcam on. My dataset involved 3 pens (wish to expand the variables) - pink, green and blue. Only the green pen works perfectly except for the other two, which overlap and intertwine with one another.
